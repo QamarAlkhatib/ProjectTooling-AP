@@ -53,3 +53,29 @@ GitLab and GitHub both have a simple issue tracker that allows you to update the
 
 ## **The Community**
 **GitHub** made a name for itself in the development community. And the incredibly active GitHub community of millions of developers is mostly responsible for its popularity. You can talk about issues and possibly pick up a few unofficial skills. **GitLab**, on the other side, did some fantastic things like host community events and connect open source contributors.
+
+
+
+# task2-2
+
+in this project, i will use these:
+
+## For IDE
+
+ Visual Studio Code: since I will be developing a web application using JS, HTML, and CSS, also I can easily export my code into GitHub, download the extensions that I need. lastly, I'm used to using it. **And I won't use the PyCharm** because It takes up more space than other text editors, which reduces code functionality. also, it's complicated to use it with virtual machine platforms and some version required cost.
+
+## For Operating system
+
+ I will be using Linux distribution because it's faster than windows OS, also The Linux terminal is better than the command line on Windows. Almost all programming languages are supported by Linux. and it's open-source, and almost most of the tools are free and easy to access with Linux. **And I won't use the windows OS** because its closed source, The tools that i need or might need will be hard to find it on windows os, also it is too slow for developing part and it might crash at any time.
+
+## For The Version-control platform:
+
+ I will be using GitHub because it's free and easy to use, also, it is easy to contribute to a project with a team because I will work with a team too. 
+ lastly, it's great for the documentation part of the assignment **And I won't use the GitLab** because it's not free, it needs a free trial for 30 days to use it.
+
+------------------------
+
+# Task2-3:
+
+accodring to my problem domain, i used VS code because its support HTML,CSS,JS at once and its full of extention that i nedded such as live server and its not complicated to link it with virtual machine platform. and i used linux OS because its fast than windows and its open source so i can easily download the tools that i need to use.
+i used github because its support SSH keys, also its free and i can easily connect with my team into organization in github and create branches and mange our codes.
