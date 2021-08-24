@@ -36,22 +36,29 @@ Keep in touch company had a problem with the selling tickets system and the comp
 
 - Database design:
 
-![database](design/database.png)
+![database](https://user-images.githubusercontent.com/87301309/130690495-62910c8b-9492-49cb-aad7-eef80c28cd14.png)
+
+
 
 - wireframe:
 
-1. ![main page](design/main.png)
+1. ![main](https://user-images.githubusercontent.com/87301309/130690544-f9d5ecf6-485b-4ebb-abed-2679c91d1885.png)
 
-2. ![event page](design/event.png)
 
-3. ![about us page](design/about.png)
+2. ![event](https://user-images.githubusercontent.com/87301309/130690569-f023e89a-7dc3-46a1-9585-659b59021d5e.png)
 
-4. ![contact us page](design/contact.png)
+
+3. ![about](https://user-images.githubusercontent.com/87301309/130690582-c2037e0e-1509-4b05-87ac-5024b336ffb7.png)
+
+
+4. ![contact](https://user-images.githubusercontent.com/87301309/130690595-2f3681ea-f1f1-4fc3-a470-26a5e7a65161.png)
+
 
 
 - Activity Diagram:
 
- ![Activity Diagram](design/acDia.png)
+ ![acDia](https://user-images.githubusercontent.com/87301309/130690644-056c5608-f911-404d-9f4c-d5a8d4e54fe3.png)
+
 
 
 
