@@ -75,5 +75,7 @@ Because of its transparency, feedback integration, and quality-control capabilit
 -------------------
 
 - Testing technique
-we will be using blax box, and white box testing
+
+       1. black box: we have tested the external structure and design the website as well as the functionality for the buttons and  as an example add to            cart button.
+       2. white box testing: we tested the internal structure source code of the website, to make sure there are no errors. 
 
